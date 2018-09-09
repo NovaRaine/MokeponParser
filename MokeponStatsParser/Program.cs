@@ -10,6 +10,10 @@ namespace MokeponStatsParser
     {
         static void Main(string[] args)
         {
+            var parser = new Parser();
+            var res = parser.Run();
+            if (!res)
+                Console.WriteLine("Something went booboo :(");
         }
     }
 }
