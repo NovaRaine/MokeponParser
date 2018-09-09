@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <settings>
-  <filePath>c:\tmp</filePath>
+  <inputFilePath>c:\tmp\stats.csv</inputFilePath>
+  <outputFilePath>c:\tmp\output.out</outputFilePath>
 </settings>
